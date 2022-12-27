@@ -1,0 +1,48 @@
+_repo: Eminent-doctors-Their-lives-and-their-work-Vol-2-of-2_69392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bettany, G. T. (George Thomas)
+    alias: Bettany, George Thomas
+    birthdate: 1850
+    deathdate: 1891
+    gutenberg_agent_id: '33300'
+    url: http://www.gutenberg.org/2009/agents/33300
+    wikipedia: https://en.wikipedia.org/wiki/George_Thomas_Bettany
+description: ''
+gutenberg_issued: '2022-11-20'
+identifiers:
+  gutenberg: '69392'
+language: en
+pgterms:marc904: https://archive.org/details/b2147154x_0002
+pgterms:marc905: 20210501023556bettany
+pgterms:marc906: '1885'
+pgterms:marc907: gb
+production_note: Bob Taylor, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: John Hogg,1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Great Britain'
+- !lcsh 'Medicine -- Great Britain -- History'
+- !lcc 'R'
+- GITenberg
+tableOfContents: 'Addison, Bright, and the diseases which bear their names -- Liston,
+  Syme, Lizars, and the newer surgery -- Baillie, Halford, Chambers, and Holland,
+  the fashionable and courtly physicians -- Sir William Fergusson and conservative
+  surgery -- Sir James Simpson and anæsthetics -- Sir Spencer Wells and ovariotomy
+  -- Sir William Jenner, Budd, Murchison, and typhoid fever -- Sir Joseph Lister and
+  antiseptic surgery -- Sir Thomas Watson, Sir Dominic Corrigan, Sir William Gull,
+  and clinical medicine -- Sir James Paget and surgical pathology -- Williams, Stokes,
+  and diseases of the chest -- Sir Henry Thompson and cremation -- Graves, Hughes
+  Bennett, and clinical teaching -- Conolly, Maudsley, and mental diseases -- Eminent
+  specialists: Sir Erasmus Wilson and skin diseases; Morell Mackenzie and throat diseases;
+  Cobbold and internal parasites -- Eminent Specialists, continued: Sir W. Bowman,
+  Brudenell Carter, and eye diseases; Toynbee, Hinton, and ear diseases -- Sir R.
+  Christison, Swaine Taylor, and poison detection -- Parkes, Guy, Simon, and public
+  health.'
+title: 'Eminent doctors: Their lives and their work; Vol. 2 of 2'
+url: http://www.gutenberg.org/ebooks/69392
